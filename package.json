@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/igopisrinivasan/JestPractice/issues"
   },
-  "homepage": "https://github.com/igopisrinivasan/JestPractice#readme"
+  "homepage": "https://github.com/igopisrinivasan/JestPractice#readme",
+  "devDependencies": {
+    "jest": "^25.5.3"
+  }
 }
